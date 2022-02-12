@@ -1,6 +1,7 @@
 # Alist on Fly.io
 ## 概述
 在[Fly.io](https://fly.io)部署[Alist](https://github.com/Xhofe/alist)
+特点：彻底摆脱ban权限zhi（荷兰🇳🇱，阿姆斯特丹），自带cdn
 ## 如何部署
 1. 先到 [Fly.io](https://fly.io/) 注册账号，***注意：注册时要记得绑定信用卡，银联的就行***
 2. GitHub Actions 增加`FLY_API_TOKEN`、`APP_NAME`、`DATABASE`、`SQLUSER`、`SQLPASSWORD`、`SQLHOST`、`SQLPORT`和`SQLNAME`安全字段（Secrets)
