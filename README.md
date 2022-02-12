@@ -1,4 +1,5 @@
 # Alist on Fly.io
+## 有问题去Discussions，HostLoc等不是工单论坛
 ## 概述
 在[Fly.io](https://fly.io)部署[Alist](https://github.com/Xhofe/alist)
 特点：彻底摆脱ban权限zhi（荷兰🇳🇱，阿姆斯特丹），自带cdn
