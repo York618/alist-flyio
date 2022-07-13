@@ -1,4 +1,6 @@
 # Alist on Fly.io
+## 状态
+[![Fly Deploy cd](https://github.com/York618/alist-flyio/actions/workflows/main.yml/badge.svg)](https://github.com/York618/alist-flyio/actions/workflows/main.yml)
 ## 有问题去Discussions，HostLoc等不是工单论坛
 ## 概述
 在[Fly.io](https://fly.io)部署[Alist](https://github.com/Xhofe/alist)
